@@ -1,0 +1,3 @@
+<span style="font-size:inherit">Flask==3.0.2</span>
+<span style="font-size:inherit">pymongo==4.6.2</span>
+<span style="font-size:inherit">gunicorn==21.2.0</span>
